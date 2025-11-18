@@ -587,7 +587,7 @@ const Main = () => {
               평택의 새로운 시작, 높은 미래가치<br/>
               브랜드 신뢰 BS한양
               <br />
-              <span className={styles.greyText1}>브랜드 프리미엄</span>
+              <span className={styles.greyText1}>500만원으로 입주시까지</span>
               <br />
             </div>
             <div className={styles.mainImageTitleBox1}>
