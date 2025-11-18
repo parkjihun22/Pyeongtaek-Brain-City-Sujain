@@ -77,7 +77,7 @@ const ComplexGuide1 = () => {
     name="description"
     content="평택 브레인시티 수자인 모집공고를 한눈에 확인하세요. 공급 세대수·공급면적·분양가, 청약 일정·자격, 당첨자 발표·정당계약 및 유의사항을 안내합니다."
   />
-  <link rel="canonical" href="https://sinbiapt.co.kr/SalesInfo/announcement" />
+  <link rel="canonical" href="https://www.vaaclubs.com/SalesInfo/announcement" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -88,8 +88,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="분양 세대수, 면적, 가격, 청약 자격 및 절차, 당첨자 발표와 계약 유의사항까지 모집공고의 모든 정보를 확인하세요."
   />
-  <meta property="og:url" content="https://sinbiapt.co.kr/SalesInfo/announcement" />
-  <meta property="og:image" content="https://sinbiapt.co.kr/img/og/announcement.jpg" />
+  <meta property="og:url" content="https://www.vaaclubs.com/SalesInfo/announcement" />
+  <meta property="og:image" content="https://www.vaaclubs.com/img/og/announcement.jpg" />
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
@@ -98,8 +98,8 @@ const ComplexGuide1 = () => {
     name="twitter:description"
     content="청약 준비에 필요한 분양공고 정보를 정확하게 안내드립니다. 공급규모, 일정, 자격조건, 유의사항을 확인하세요."
   />
-  <meta name="twitter:image" content="https://sinbiapt.co.kr/img/og/announcement.jpg" />
-  <meta name="twitter:url" content="https://sinbiapt.co.kr/SalesInfo/announcement" />
+  <meta name="twitter:image" content="https://www.vaaclubs.com/img/og/announcement.jpg" />
+  <meta name="twitter:url" content="https://www.vaaclubs.com/SalesInfo/announcement" />
 </Helmet>
 
 <Header isChanged={isScroll} />

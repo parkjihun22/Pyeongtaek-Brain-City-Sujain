@@ -72,7 +72,7 @@ const BusinessGuide2 = () => {
   <meta name="robots" content="index,follow" />
   <link
     rel="canonical"
-    href="https://sinbiapt.co.kr/BusinessGuide/documents"
+    href="https://www.vaaclubs.com/BusinessGuide/documents"
   />
 
   {/* Open Graph */}
@@ -83,8 +83,8 @@ const BusinessGuide2 = () => {
     property="og:description"
     content="평택 브레인시티 수자인 계약서류 안내: 계약 체결 시 필요한 신분증, 주민등록등본, 인감증명서 등 서류 목록과 유의사항을 확인하세요."
   />
-  <meta property="og:url" content="https://sinbiapt.co.kr/BusinessGuide/documents" />
-  <meta property="og:image" content="https://sinbiapt.co.kr/Main1.png" />
+  <meta property="og:url" content="https://www.vaaclubs.com/BusinessGuide/documents" />
+  <meta property="og:image" content="https://www.vaaclubs.com/Main1.png" />
 </Helmet>
 
 <Header isChanged={isScroll} />

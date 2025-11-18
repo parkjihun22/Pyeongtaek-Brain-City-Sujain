@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
     content="평택 브레인시티 수자인 단지배치도를 통해 6개동 구성, 조경, 커뮤니티, 지상차 없는 동선과 전면 지하주차 등 특화 설계를 확인하세요."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://sinbiapt.co.kr/ComplexGuide/intro" />
+  <link rel="canonical" href="https://www.vaaclubs.com/ComplexGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="총 6개동 단지 구성, 커뮤니티·조경 계획, 지상차 없는 공원형 동선과 전면 지하주차까지 수자인만의 특화 설계를 확인하세요."
   />
-  <meta property="og:url" content="https://sinbiapt.co.kr/ComplexGuide/intro" />
-  <meta property="og:image" content="https://sinbiapt.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.vaaclubs.com/ComplexGuide/intro" />
+  <meta property="og:image" content="https://www.vaaclubs.com/img/og/complex.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -80,8 +80,8 @@ const ComplexGuide1 = () => {
     name="twitter:description"
     content="지상 차 없는 공원형 단지, 커뮤니티와 녹지 조경 설계, 전면 지하주차 동선을 한눈에 확인하세요."
   />
-  <meta name="twitter:image" content="https://sinbiapt.co.kr/img/og/complex.jpg" />
-  <meta name="twitter:url" content="https://sinbiapt.co.kr/ComplexGuide/intro" />
+  <meta name="twitter:image" content="https://www.vaaclubs.com/img/og/complex.jpg" />
+  <meta name="twitter:url" content="https://www.vaaclubs.com/ComplexGuide/intro" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -89,20 +89,20 @@ const ComplexGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "평택 브레인시티 수자인 - 단지배치도",
-      "url": "https://sinbiapt.co.kr/ComplexGuide/intro",
+      "url": "https://www.vaaclubs.com/ComplexGuide/intro",
       "description":
         "평택 브레인시티 수자인 단지배치도: 총 6개동 구성, 녹지·커뮤니티, 지상차 없는 동선과 전면 지하주차 등 특화 설계를 확인하세요.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://sinbiapt.co.kr/img/og/complex.jpg",
+        "contentUrl": "https://www.vaaclubs.com/img/og/complex.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://sinbiapt.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "https://sinbiapt.co.kr/ComplexGuide/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.vaaclubs.com/" },
+          { "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "https://www.vaaclubs.com/ComplexGuide/intro" }
         ]
       }
     })}

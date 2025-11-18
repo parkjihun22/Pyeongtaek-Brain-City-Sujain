@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
     name="description"
     content="평택 브레인시티 수자인의 동·호수 배치를 통해 세대별 위치, 조망, 일조 방향, 프라이버시를 고려한 라인 및 코어 동선을 확인하세요."
   />
-  <link rel="canonical" href="https://sinbiapt.co.kr/ComplexGuide/detailintro" />
+  <link rel="canonical" href="https://www.vaaclubs.com/ComplexGuide/detailintro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="세대별 위치와 조망, 남향 중심 배치와 코어 동선을 고려한 평택 브레인시티 수자인의 동·호수 배치를 확인하세요."
   />
-  <meta property="og:url" content="https://sinbiapt.co.kr/ComplexGuide/detailintro" />
-  <meta property="og:image" content="https://sinbiapt.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.vaaclubs.com/ComplexGuide/detailintro" />
+  <meta property="og:image" content="https://www.vaaclubs.com/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

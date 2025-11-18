@@ -56,7 +56,7 @@ const BusinessGuide2 = () => {
     name="description"
     content="평택 브레인시티 수자인 분양 일정을 확인하세요. 모델하우스 오픈, 특별공급, 1·2순위 청약, 당첨자 발표 및 정당계약까지 전체 일정을 안내합니다."
   />
-  <link rel="canonical" href="https://sinbiapt.co.kr/BusinessGuide/plan" />
+  <link rel="canonical" href="https://www.vaaclubs.com/BusinessGuide/plan" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

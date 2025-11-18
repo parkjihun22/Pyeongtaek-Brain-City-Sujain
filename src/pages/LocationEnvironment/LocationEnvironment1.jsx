@@ -102,7 +102,7 @@ const LocationEnvironment1 = () => {
     content="삼성 평택캠퍼스와 브레인시티 산업단지 인접, 평택 브레인시티 수자인의 미래가치를 확인하세요. SRT·고속도로·IC 등 광역 교통망과 주변 개발 호재까지 갖춘 입지환경."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://sinbiapt.co.kr/LocationEnvironment/intro" />
+  <link rel="canonical" href="https://www.vaaclubs.com/LocationEnvironment/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -112,8 +112,8 @@ const LocationEnvironment1 = () => {
     property="og:description"
     content="SRT 평택지제역, 송탄 IC, 삼성 평택캠퍼스 인접 입지. 교통·산업·교육 인프라와 개발 모멘텀을 갖춘 평택 브레인시티 수자인의 미래가치를 확인하세요."
   />
-  <meta property="og:url" content="https://sinbiapt.co.kr/LocationEnvironment/intro" />
-  <meta property="og:image" content="https://sinbiapt.co.kr/img/og/location.jpg" />
+  <meta property="og:url" content="https://www.vaaclubs.com/LocationEnvironment/intro" />
+  <meta property="og:image" content="https://www.vaaclubs.com/img/og/location.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -124,8 +124,8 @@ const LocationEnvironment1 = () => {
     name="twitter:description"
     content="SRT·IC·산업단지·교육시설 인접 입지. 직주근접과 개발 잠재력이 공존하는 평택 브레인시티 수자인의 입지환경을 확인하세요."
   />
-  <meta name="twitter:image" content="https://sinbiapt.co.kr/img/og/location.jpg" />
-  <meta name="twitter:url" content="https://sinbiapt.co.kr/LocationEnvironment/intro" />
+  <meta name="twitter:image" content="https://www.vaaclubs.com/img/og/location.jpg" />
+  <meta name="twitter:url" content="https://www.vaaclubs.com/LocationEnvironment/intro" />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
   <script type="application/ld+json">
@@ -133,20 +133,20 @@ const LocationEnvironment1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "평택 브레인시티 수자인 - 입지환경",
-      "url": "https://sinbiapt.co.kr/LocationEnvironment/intro",
+      "url": "https://www.vaaclubs.com/LocationEnvironment/intro",
       "description":
         "삼성 평택캠퍼스와 브레인시티 산업단지, SRT 지제역, 송탄 IC 등 인접한 교통·산업 복합 입지. 평택 브레인시티 수자인의 핵심 입지환경 정보를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://sinbiapt.co.kr/img/og/location.jpg",
+        "contentUrl": "https://www.vaaclubs.com/img/og/location.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://sinbiapt.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://sinbiapt.co.kr/LocationEnvironment/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.vaaclubs.com/" },
+          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.vaaclubs.com/LocationEnvironment/intro" }
         ]
       }
     })}

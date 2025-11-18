@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "평택 브레인시티 수자인", url: "https://sinbiapt.co.kr/" },
+  { name: "평택 브레인시티 수자인", url: "https://www.vaaclubs.com/" },
 ];
 
 const Footer = () => {

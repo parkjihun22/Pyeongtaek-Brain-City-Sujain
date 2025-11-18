@@ -53,7 +53,7 @@ const Brand1 = () => {
     name="description"
     content="한양 수자인(SUJAIN)의 브랜드 철학과 가치를 소개합니다. 기술, 환경, 사람의 균형을 고려한 주거철학으로 프리미엄 라이프를 완성하는 평택 브레인시티 수자인."
   />
-  <link rel="canonical" href="https://sinbiapt.co.kr/Brand/intro" />
+  <link rel="canonical" href="https://www.vaaclubs.com/Brand/intro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
     property="og:description"
     content="한양 수자인 브랜드 소개: 사람과 환경, 기술의 균형을 담은 수자인만의 철학으로 더 나은 일상을 제시하는 프리미엄 아파트, 평택 브레인시티 수자인."
   />
-  <meta property="og:url" content="https://sinbiapt.co.kr/Brand/intro" />
-  <meta property="og:image" content="https://sinbiapt.co.kr/images/og/main.jpg" />
+  <meta property="og:url" content="https://www.vaaclubs.com/Brand/intro" />
+  <meta property="og:image" content="https://www.vaaclubs.com/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

@@ -67,7 +67,7 @@ const BusinessGuide1 = () => {
     content="경기 평택시 브레인시티 8블록에 들어서는 평택 브레인시티 수자인의 사업 개요를 확인하세요. 총 889세대(지하 2층~지상 34층, 6개동), 전용 59·84㎡ 구성, 입지·규모·입주 정보 안내."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://sinbiapt.co.kr/BusinessGuide/intro" />
+  <link rel="canonical" href="https://www.vaaclubs.com/BusinessGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -77,8 +77,8 @@ const BusinessGuide1 = () => {
     property="og:description"
     content="경기 평택 브레인시티 내 초입 입지, 총 889세대 프리미엄 대단지. 위치, 평형 구성, 입주 예정일 등 핵심 사업 정보를 한눈에 확인하세요."
   />
-  <meta property="og:url" content="https://sinbiapt.co.kr/BusinessGuide/intro" />
-  <meta property="og:image" content="https://sinbiapt.co.kr/img/og/business.jpg" />
+  <meta property="og:url" content="https://www.vaaclubs.com/BusinessGuide/intro" />
+  <meta property="og:image" content="https://www.vaaclubs.com/img/og/business.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -89,8 +89,8 @@ const BusinessGuide1 = () => {
     name="twitter:description"
     content="지하 2층~지상 34층, 6개동 889세대 구성. 전용 59·84㎡ 타입과 특화설계, 초등학교 인접 입지와 입주 예정일을 확인하세요."
   />
-  <meta name="twitter:image" content="https://sinbiapt.co.kr/img/og/business.jpg" />
-  <meta name="twitter:url" content="https://sinbiapt.co.kr/BusinessGuide/intro" />
+  <meta name="twitter:image" content="https://www.vaaclubs.com/img/og/business.jpg" />
+  <meta name="twitter:url" content="https://www.vaaclubs.com/BusinessGuide/intro" />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
   <script type="application/ld+json">
@@ -98,20 +98,20 @@ const BusinessGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "평택 브레인시티 수자인 - 사업안내",
-      "url": "https://sinbiapt.co.kr/BusinessGuide/intro",
+      "url": "https://www.vaaclubs.com/BusinessGuide/intro",
       "description":
         "경기 평택시 브레인시티에 조성되는 평택 브레인시티 수자인의 사업 개요와 위치, 평형 구성, 입주 예정일 등 주요 정보를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://sinbiapt.co.kr/img/og/business.jpg",
+        "contentUrl": "https://www.vaaclubs.com/img/og/business.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://sinbiapt.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://sinbiapt.co.kr/BusinessGuide/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.vaaclubs.com/" },
+          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.vaaclubs.com/BusinessGuide/intro" }
         ]
       }
     })}

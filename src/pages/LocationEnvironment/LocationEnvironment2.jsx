@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
     name="description"
     content="평택 브레인시티 수자인의 프리미엄을 확인하세요. 삼성 평택캠퍼스 인접 직주근접 입지, 지상 차 없는 공원형 단지, 특화 커뮤니티와 무상옵션 구성까지 미래가치를 갖춘 브랜드 대단지입니다."
   />
-  <link rel="canonical" href="https://sinbiapt.co.kr/LocationEnvironment/primium" />
+  <link rel="canonical" href="https://www.vaaclubs.com/LocationEnvironment/primium" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 
