@@ -287,14 +287,15 @@ const Main = () => {
               <div className={styles.textBox}>
                 <div className={styles.text1}>Location</div>
                 <div className={styles.text2}>
-  평택 브레인시티 수자인 POINT
-</div>
-<div className={styles.text3}>
-  - SRT 평택지제역, 송탄 IC 인접으로 서울·강남권 빠른 연결<br />
-  - 삼성전자 평택캠퍼스 등 산업단지 직주근접 입지<br />
-  - 대형 쇼핑몰·학교·병원 등 생활 인프라 밀집<br />
-  - 공원형 단지 설계 및 커뮤니티 특화 시설(피트니스·실내골프·작은도서관 등)
-</div>
+                  평택 브레인시티 수자인 POINT
+                </div>
+                <div className={styles.text3}>
+                  - 25평 마감 / 34평 선착순 동호지정!!<br />
+                  - 11가지 옵션 무상 제공!<br />
+                  - 입주시까지 계약금 500만원으로 OK!<br />
+                  - 브레인시티 유일 안심보장제 적용!
+                  - 6.27 대출규제 미적용 / 분양가상한제 적용 아파트
+                </div>
 
                 <div className={styles.text4}>
                   <a
@@ -602,14 +603,15 @@ const Main = () => {
           <div className={styles.container1}>
             <div className={styles.text1}>Location</div>
             <div className={styles.text2}>
-                평택 브레인시티 수자인 POINT
-              </div>
-              <div className={styles.text3}>
-                - SRT 평택지제역, 송탄 IC 인접으로 서울·강남권 빠른 연결<br />
-                - 삼성전자 평택캠퍼스 등 산업단지 직주근접 입지<br />
-                - 대형 쇼핑몰·학교·병원 등 생활 인프라 밀집<br />
-                - 공원형 단지 설계 및 커뮤니티 특화 시설(피트니스·실내골프·작은도서관 등)
-              </div>
+              평택 브레인시티 수자인 POINT
+            </div>
+            <div className={styles.text3}>
+              - 25평 마감 / 34평 선착순 동호지정!!<br />
+              - 11가지 옵션 무상 제공!<br />
+              - 입주시까지 계약금 500만원으로 OK!<br />
+              - 브레인시티 유일 안심보장제 적용!
+              - 6.27 대출규제 미적용 / 분양가상한제 적용 아파트
+            </div>
 
 
             <div className={styles.text4}>
